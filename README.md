@@ -117,7 +117,7 @@ sales-forecast-xgboost/
 ├── dashboard/
 │   ├── Projeto_Sales_Forecast.pbix
 │   ├── Projeto_Sales_Forecast.pdf
-│   └── dashboard_preview.png
+│   └── Projeto_Sales_Forecast.png
 │
 ├── notebooks/
 │   └── sales_forecast_xgboost.ipynb
