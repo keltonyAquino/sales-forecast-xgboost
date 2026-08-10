@@ -132,14 +132,17 @@ sales-forecast-xgboost/
 ├── .gitignore
 └── README.md
 
+## 📊 Dashboard
 
-📌 Dados
+![Dashboard de Previsão de Vendas](dashboard/Projeto_Sales_Forecast.png)
+
+## 📌 Dados
 
 O projeto utiliza o conjunto de dados Store Sales - Time Series Forecasting, disponibilizado no Kaggle.
 
 Os arquivos brutos não são versionados neste repositório devido ao tamanho e para evitar duplicação da fonte original.
 
-🚀 Execução
+## 🚀 Execução
 
 O fluxo completo da análise está disponível em:
 
@@ -147,7 +150,7 @@ notebooks/sales_forecast_xgboost.ipynb
 
 O notebook contém as etapas de preparação dos dados, análise exploratória, engenharia de atributos, modelagem, avaliação, otimização, SHAP e geração do forecast.
 
-👤 Autor
+## 👤 Autor
 
 Keltony de Aquino Ferreira
 
